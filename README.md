@@ -9,14 +9,14 @@
  
 ### Tech I use
 
-⭐ HTML 
-⭐ CSS 
-⭐ JavaScript 
-⭐ PHP
+⭐ HTML </br>
+⭐ CSS </br>
+⭐ JavaScript </br>
+⭐ PHP </br>
 
 ### Others
 
-• WordPress 
-• WooCommerce 
-• APTUSshop 
-• Shopify 
+• WordPress </br>
+• WooCommerce </br>
+• APTUSshop </br>
+• Shopify </br>
