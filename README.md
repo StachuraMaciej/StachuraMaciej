@@ -5,7 +5,7 @@
  
 ### Important links 
 
-💻 All of my projects are available in my <a href="https://mastaprojects.com/" target="blank">portfolio</a>
+💻 All of my projects are available in my <a href="https://mastaprojects.com/" target="_blank">portfolio</a>
  
 ### Tech I use
 
