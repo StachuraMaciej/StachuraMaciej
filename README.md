@@ -17,8 +17,7 @@
 ### Others
 
 • WordPress </br>
-• WooCommerce </br>
-• APTUSshop </br>
 • Shopify </br>
+• APTUSshop </br>
 
 ### Let's work together! 🤝
