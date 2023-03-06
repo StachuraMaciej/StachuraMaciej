@@ -10,7 +10,7 @@
 ### Tech I use
 
 ⭐ HTML </br>
-⭐ CSS </br>
+⭐ CSS/SCSS </br>
 ⭐ JavaScript </br>
 <!--⭐ PHP </br>-->
 
