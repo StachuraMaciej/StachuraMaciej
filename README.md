@@ -5,7 +5,7 @@
 <p align="left">
 <!-- 👨‍💻 All of my projects are available at [https://mastaprojects.com/](https://mastaprojects.com/)-->
 
-- 📫 How to reach me **maciej.stachura@o2.pl**
+ 📫 How to reach me **maciej.stachura@o2.pl**
 
 
 </p>
