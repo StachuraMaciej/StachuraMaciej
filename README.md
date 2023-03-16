@@ -1,7 +1,7 @@
 ### Hello 👋
 <h4 align="left"> I am passionate about minimalist clean code & design✨ </br>I pay attention to details🔭 and always look for a good solution for the user and the business⚡Developer from Poland</h4>
 
-- 👨‍💻 All of my projects are available at [https://mastaprojects.com/](https://mastaprojects.com/)
+<!-- 👨‍💻 All of my projects are available at [https://mastaprojects.com/](https://mastaprojects.com/)-->
 
 - 📫 How to reach me **maciej.stachura@o2.pl**
 
