@@ -1,13 +1,10 @@
 <h2 align="left">Hello 👋</h2>
 <h4 align="left"> I am passionate about minimalist clean code & design✨ </br>I pay attention to details🔭 and always look for a good solution for the user and the business⚡Developer from Poland</h4>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- 👨‍💻 All of my projects are available at [https://mastaprojects.com/](https://mastaprojects.com/)-->
 
  📫 How to reach me **maciej.stachura@o2.pl**
-
-
 </p>
 
 <h3 align="left">Tools and languages:</h3>
