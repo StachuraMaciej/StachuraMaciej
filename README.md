@@ -1,5 +1,5 @@
 ### Hello 👋
-<h3 align="center">A passionate frontend I am passionate about minimalist clean code & design✨ I pay attention to details🔭 and always look for a good solution for the user and the business.⚡developer from India</h3>
+<h3 align="center"> I am passionate about minimalist clean code & design✨ I pay attention to details🔭 and always look for a good solution for the user and the business.⚡Developer from Poland</h3>
 
 - 👨‍💻 All of my projects are available at [https://mastaprojects.com/](https://mastaprojects.com/)
 
