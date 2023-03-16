@@ -1,4 +1,4 @@
-##Hello 👋
+## Hello👋
 <h4 align="left"> I am passionate about minimalist clean code & design✨ </br>I pay attention to details🔭 and always look for a good solution for the user and the business⚡Developer from Poland</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
