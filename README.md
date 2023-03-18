@@ -16,6 +16,11 @@ I am passionate about minimalist clean code & design✨ </br>I pay attention to 
  <h3 align="left">Other:</h3> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   
+ <h3 align="left">Best practices:</h3>  
+  <ul>
+  <li>Convetion BEM</li>
+  <li>Maximizing code encapsulation</li>
+</ul>
 </p>
 
 ### Let's work together! 🤝
