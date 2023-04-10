@@ -18,6 +18,7 @@ I am passionate about minimalist clean code & design✨ </br>I pay attention to 
   
  <h3 align="left">Best practices:</h3>  
   <ul>
+ <li> Pixel perfect design</li>
   <li>Convetion BEM</li>
   <li>Maximizing code encapsulation</li>
 </ul>
