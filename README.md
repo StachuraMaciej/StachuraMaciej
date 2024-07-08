@@ -15,6 +15,7 @@ I am passionate about minimalist clean code & design✨ </br>I pay attention to 
 
  <h3 align="left">Other:</h3> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/jira/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/jaktestowac/jaktestowac/blob/main/public/icons/Playwright.svg"><img src="https://github.com/jaktestowac/jaktestowac/raw/main/public/icons/Playwright.svg" title="Playwright" alt="Playwright" width="64" height="64" style="max-width: 100%;"></a>
   
  <h3 align="left">Best practices:</h3>  
   <ul>
