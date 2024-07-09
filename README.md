@@ -22,7 +22,7 @@ I am passionate about minimalist clean code & design✨ </br>I pay attention to 
  <li> Pixel perfect design</li>
   <li>Convetion BEM</li>
   <li>Maximizing code encapsulation</li>
-  <li>Quality Assurance</li>
+  <li>Quality Assurance🔍</li>
 </ul>
 </p>
 
