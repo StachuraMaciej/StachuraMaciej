@@ -1,5 +1,5 @@
 <h3 align="left">Hello👋</h3>
-I am passionate about minimalist clean code & design✨ </br>I pay attention to details🔭 and always look for a good solution for the user and the business⚡Specialist from Poland 🇵🇱
+I am passionate about minimalist clean code & design✨ </br>I pay attention to details🔭 and always look for a good solution for the user and the business⚡Engineer from Poland 🇵🇱
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <!--👨‍💻 All of my projects are available at <a href="https://mastaprojects.com/">mastaprojects.com</a>-->
